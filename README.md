@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/akamarius/dashingJS/badge.svg?branch=master)](https://coveralls.io/github/akamarius/dashingJS?branch=master)
+[![Build Status](https://travis-ci.org/akamarius/dashingJS.svg?branch=master)](https://travis-ci.org/akamarius/dashingJS)
+
 # DashingJS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
