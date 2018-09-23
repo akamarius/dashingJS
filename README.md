@@ -1,3 +1,7 @@
+[![Coverage Status](https://coveralls.io/repos/github/akamarius/dashingJS/badge.svg?branch=master)](https://coveralls.io/github/akamarius/dashingJS?branch=master)
+[![Build Status](https://travis-ci.org/akamarius/dashingJS.svg?branch=master)](https://travis-ci.org/akamarius/dashingJS)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f8d05948bfd45d08270c447b9da89f5)](https://www.codacy.com/app/akamarius/dashingJS?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akamarius/dashingJS&amp;utm_campaign=Badge_Grade)
+
 # DashingJS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
